@@ -15,7 +15,7 @@ bun add @qwantumstone/salt
 ```
 
 ```ts
-import * "@qwantumstone/salt/src"
+import "@qwantumstone/salt/src"
 ```
 
 1. [Overview](#overview)
